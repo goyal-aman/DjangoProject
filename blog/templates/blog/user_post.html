@@ -1,6 +1,8 @@
+<!--extended from home.html-->
 {% extends "blog/base.html" %}
 
 {% block content %}
+<h1 class='mb-3'>Post by {{ views.kwargs.username }} ({{ page_obj.paginator.count }})</h1>
 {% for post in posts%}
 <!--snippest from online-->
 <article class="media content-section">

@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\asus\\OneDrive\\Projects\\Environments\\django_project\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\asus\\OneDrive\\Projects\\Environments\\django_project\\Scripts\\python.exe",
+    "git.enabled": false,
+    "python.terminal.activateEnvironment": true
 }
